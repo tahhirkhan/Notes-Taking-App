@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-kssqp=d*@ote(va-lop(al8^ck+j1v=wnsvpvoih$jebrtmn2d
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['127.0.0.1']
+ALLOWED_HOSTS = ['127.0.0.1', 'smooth-notes.herokuapp.com']
 
 
 # Application definition
